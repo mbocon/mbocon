@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I'm Mike, a full-stack freelance developer 👨‍💻  and instructional associate at [General Assembly](https://generalassemb.ly/instructors/mike-bocon/26250) working remotely 🚀</div>  
+### <div align="left">I'm Mike, a full-stack freelance developer 👨‍💻  and instructional associate at [General Assembly](https://generalassemb.ly/instructors/mike-bocon/26250) working remotely 🚀</div>  
   
 
 - 🧠 I'm currently learning data structures and algorithms.  
