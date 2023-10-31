@@ -3,16 +3,8 @@
 </div>  
   
 
-### I'm Mike, a full-stack freelance developer 👨‍💻  and instructional associate at [General Assembly](https://generalassemb.ly/instructors/mike-bocon/26250) working remotely 🚀  
+### I'm Mike, a full-stack developer. I'm the co-founder and lead developer of [OutlierDB](https://outlierdb.com) 👨‍💻  and instructional associate at [General Assembly](https://generalassemb.ly/instructors/mike-bocon/26250) working remotely 🚀  
   
-
-- 🧠 I'm currently learning Cybersecurity with a focus on obtaining the compTIA Security+ and CySA certifications.
-  
-
-- 😍 [React]( https://reactjs.org/) is my favorite technology!  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
